@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import StateDemo from './Stste';
+import StateDemo from './State';
 
 function App() {
   return (
